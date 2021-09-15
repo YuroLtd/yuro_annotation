@@ -1,0 +1,13 @@
+name: yuro_annotation
+description: A new Flutter project.
+version: 0.0.1
+homepage: https://github.com/YuroLtd/yuro_kit.git
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  meta: ^1.7.0
