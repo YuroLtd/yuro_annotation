@@ -3,8 +3,9 @@ import 'package:meta/meta.dart';
 @immutable
 class Retrofit {
   final String? baseUrl;
+  final String? path;
 
-  const Retrofit({this.baseUrl});
+  const Retrofit({this.baseUrl, this.path});
 }
 
 class HttpMethod {
